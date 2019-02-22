@@ -1,6 +1,8 @@
 {
   "name": "agtApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "5f5689df"
 }
